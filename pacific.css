@@ -1,7 +1,7 @@
 body {
     Background-color:#FFFFFF;
     Color: #666666;
-    font-family: Verdana Arial, Sans-serif;
+    font-family: Verdana, Arial, Sans-serif;
 }
 #wrapper {
     margin-left: auto;
@@ -30,6 +30,7 @@ dt {
 }
 .resort {
     color: #1976d2;
+    font-size: 1.2em;
 }
 footer {
     font-size: .70em;
